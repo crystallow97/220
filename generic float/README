@@ -1,0 +1,8 @@
+completed in CS220 spring 2018
+
+functionality:
+given an input file that contains various numerical values, can change float precision of inputs.
+
+  "make" to compile all of the files.
+  "make test" to compile with the input file.
+  "make clean" to remove all files.
